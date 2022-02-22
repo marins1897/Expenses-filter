@@ -1,3 +1,0 @@
-tamna: #996600
-active i hover: #4d3800
-svijetla: #ffd633
